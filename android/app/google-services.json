@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884541062894",
+    "project_id": "bestlancer-8a7fe",
+    "storage_bucket": "bestlancer-8a7fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884541062894:android:c96e0f9e31461835e0fdff",
+        "android_client_info": {
+          "package_name": "com.pt.fiwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm2CyLuzT9n4gL4omwWwyb7f_BtL1Pfbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
